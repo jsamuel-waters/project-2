@@ -1,0 +1,117 @@
+#form, #group-form{
+    padding: 20px;
+    float: right;
+    border-style: solid;
+    border-color: dimgrey;
+    border-width: 2px;
+    background-color:white;
+}
+
+#groupInput{
+    width:600px;
+}
+#submit-restaurant{
+    width:100px;
+    float:right;
+}
+
+#group{
+	float: left;
+	background-color:white;
+	width:460px;
+	padding: 20px;
+	border-style: solid;
+    border-color: dimgrey;
+    border-width: 2px;
+}
+h4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#restChoice{
+    float:left;
+}
+#restRandom{
+    padding:20px;
+}
+
+/* INDEX */
+
+.appText {
+    color: white; 
+    font-size: 70px; 
+    width: 100%; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.fontText {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.btn {
+    color: white;
+    font-weight: bold;
+    background-color: black;
+    -webkit-transition: all 1s ease-out;
+    -moz-transition: all 1s ease-out;
+    -o-transition: all 1s ease-out;
+    -ms-transition: all 1s ease-out;
+    transition: all 1s ease-out;
+}
+
+.btn:hover {
+    color: black;
+    font-weight: bold;
+    background-color: lightskyblue;
+    -webkit-transition: all 400ms ease-in;
+    -moz-transition: all 400ms ease-in;
+    -o-transition: all 400ms ease-in;
+    -ms-transition: all 400ms ease-in;
+    transition: all 400ms ease-in;
+}
+
+body {
+    background-color: midnightblue;
+    width: 101%;
+}
+input{
+    font-weight: bolder;
+}
+.member-name {
+	display: inline-block;
+	margin-right: 12px;
+}
+#groupSearch{
+    float:right;
+}
+nav{
+    width:460px;
+}
+
+#groupInput{
+    width:325px;
+}
+#skyline{
+    height:640px;
+}
+#bImg{
+    background-image: url('../images/img_3.jpg');
+    width:100%;
+}
+footer{
+   background-color: midnightblue;
+}
+#names{
+    color: cornflowerblue;
+}
+#index{
+    background-color: midnightblue;
+    padding-top:10px;
+    margin-bottom:100px;
+}
+#P2{
+    float:right;
+    margin-left:890px;
+    color:white;
+    font-weight: bold;
+}
